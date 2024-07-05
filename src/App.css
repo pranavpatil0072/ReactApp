@@ -1,0 +1,292 @@
+.main
+{
+    margin-top: 10%;
+}
+    .p1
+    {
+        
+        color:  rgb(37, 174, 228);
+        font-size: 140%;
+        position: relative;
+        margin-top: 10%;
+        margin-left: 40%;
+    }
+    .h1
+    {
+        color: rgb(8, 29, 135);
+        font-size: 120%;
+        position: relative;
+        margin-left: -23%;
+        font-weight: bold;
+        margin-top: -5%;
+        font-family:Arial, Helvetica, sans-serif;
+    }
+
+    .p2
+    {
+        margin-right: 2%;
+        color:  rgb(37, 174, 228);
+        font-size: 140%;
+        position: absolute;
+        top: 27%;
+        margin-left: 12.7%;
+    }
+    
+    .main
+    {
+      text-align:center;
+    }
+    .cont2
+{
+display: flex;
+        justify-content: center;
+        align-items: center;
+margin-top: 5%;
+background-color: white;
+}
+.aaa
+{
+background-color: rgb(255, 255, 255);
+border-style: solid;
+border-radius: 13%;
+border-color: rgb(245, 238, 238);
+margin-left: 0%;
+padding-bottom: 3%;
+width: 17%;
+
+
+}
+.ic1
+{
+    border-top-left-radius: 13%;
+    border-top-right-radius: 13%;
+    padding-top: 8%;
+    background-color: rgb(199, 222, 255);
+   
+   
+}
+.aaa1
+{
+margin-top: 15px;
+margin-left: -15%;
+
+}
+h3{
+    font-size: 135%;
+    
+}
+.aaa2
+{
+margin-left: 0%;
+color: rgb(113, 171, 27);
+}
+.aaa3
+{
+position: absolute;
+margin-left: 4%;
+top: 88%;
+
+}
+.bbb
+{
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 10%;
+    border-color: rgb(245, 238, 238);
+margin-left: 2%;
+margin-top: 0%;
+width: 17%;
+
+}
+.bbb1
+{
+margin-left: 0%;
+margin-top: 15px;
+}
+.bbb2
+{
+margin-left: 0%;
+color: rgb(113, 171, 27);
+}
+.bbb3
+{
+margin-left: -9%;
+margin-top: 15%;
+}
+.ic2
+{
+    border-top-left-radius: 13%;
+    border-top-right-radius: 13%;
+    padding-top: 5%;
+    background-color: rgb(157, 213, 217);
+
+   
+   
+}
+.ccc
+{
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 10%;
+    border-color: rgb(245, 238, 238);
+margin-left: 2%;
+margin-top: 0%;
+width: 17%;
+
+}
+.ccc1
+{
+margin-left: 0%;
+margin-top: 15px;
+}
+.ccc2
+{
+margin-left: 0%;
+color: rgb(113, 171, 27);
+}
+.ccc3
+{
+margin-left: 0%;
+
+}
+.ic3
+{
+    border-top-left-radius: 13%;
+    border-top-right-radius: 13%;
+    padding-top: 13%;
+    background-color: rgb(220, 201, 255);
+   
+   
+}
+.sigbut
+        {
+            color: rgb(5, 5, 5);
+            background-color: rgb(248, 248, 248);
+            margin-left: 2.5em;
+            font-size: small;
+            padding: .4%;
+            padding-left: 1%;
+            padding-right: 1%;
+            font-weight: lighter;
+            border-color: rgb(172, 172, 172);
+            border-style: solid;
+            border-radius: 5px;
+            border-width: .5px;
+            margin-top: -1em;
+        }
+.sigbut:hover{
+    color: rgb(4, 180, 224);
+    border-color:  rgb(78, 219, 254);
+    
+
+}
+.mn{
+    
+   display: inline;
+    height: 5%;
+    width: 10%;
+    
+}
+
+.p{
+    color: rgb(0, 234, 255);
+    margin-left: 35px;
+    margin-top: -10px;
+}
+.q{
+    color: rgb(0, 234, 255);
+    margin-left: 58px;
+    margin-top: -10px;
+   
+}
+.r{
+    color:rgb(0, 234, 255);
+    margin-left: 70px;
+    margin-top: -10px;
+}
+.s{
+    color:rgb(0, 234, 255);
+    margin-left: 80px;
+    margin-top: -10px;
+}
+.t{
+    color:rgb(0, 234, 255);
+    margin-left: 80px;
+    margin-top: -10px;
+   
+}
+.u{
+    color:rgb(0, 234, 255);
+    margin-left: 23px;
+    margin-left: 78px;
+    margin-top: -10px;
+}
+
+.pratik{
+    float:left;
+    margin-left: 10px;
+    
+}
+
+.pratik2{
+    float:left;
+    margin-left: 10px;
+}
+
+.pratik3{
+    float:left;
+    margin-left: 10px;
+}
+
+.pratik4{
+    float:left;
+    margin-left: 10px;
+}
+
+.pratik5{
+    float:left;
+    margin-left: 10px;
+}
+
+.pratik6{
+    float:left;
+    margin-left: 10px;
+}
+.sig
+        {
+          
+            background-color: white;
+            margin-left: 0em;
+            font-size: 90%;
+            padding: .7%;
+            padding-left: 1.5%;
+            padding-right: 1.5%;
+            font-weight: light;
+            color: rgb(6, 199, 247);
+            border-color:  rgb(78, 219, 254);
+            border-style: solid;
+            border-radius: 5px;
+            border-width: 1.5px;
+            /* float: right; */
+            position:absolute;
+            top: 105%;
+            left: 82%;
+        
+            
+            
+            
+
+        }
+
+        .you{
+            position: absolute;
+            left: 42.7%;
+            font-size: 105%;
+
+        }
+        
+        .dropdown{
+            margin-top: -1em;
+        }
+
+
