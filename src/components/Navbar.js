@@ -14,6 +14,7 @@ class Navbar extends React.Component {
   render() {
     return (
       <>
+      <h1>Welcome!</h1>
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
           <a className="navbar-brand" href="#">
             <div class="main">
